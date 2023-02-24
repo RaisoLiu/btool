@@ -1,0 +1,10 @@
+LICENCE
+README.md
+setup.py
+btool/__init__.py
+btool/io.py
+btool.egg-info/PKG-INFO
+btool.egg-info/SOURCES.txt
+btool.egg-info/dependency_links.txt
+btool.egg-info/requires.txt
+btool.egg-info/top_level.txt

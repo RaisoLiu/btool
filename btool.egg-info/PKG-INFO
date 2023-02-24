@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: btool
+Version: 0.0.1
+Summary: Brain decoding & analysing toolbox
+Author: RaisoLiu
+Author-email: raisoliu@gmail.com
+Requires-Python: >=3.8
+License-File: LICENCE
