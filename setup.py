@@ -10,7 +10,6 @@ setuptools.setup(
     classifiers = [
     ],
     install_requires = [
-        "os",
         "numpy",
         "tqdm",
         "h5py",
