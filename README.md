@@ -7,5 +7,5 @@ pip install git+https://github.com/RaisoLiu/btool.git
 
 build
 ```
-python setup.py sdist bdist_wheel
+python setup.py bdist_wheel
 ```
