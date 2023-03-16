@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name = 'btool',
-    version = '0.0.2',
+    version = '0.0.3',
     author = 'RaisoLiu',
     author_email = 'raisoliu@gmail.com',
     description = 'Brain decoding & analysing toolbox',
@@ -16,6 +16,7 @@ setuptools.setup(
         "scipy",
         "matplotlib",
         "plotly",
+		'imageio',
     ],
     python_requires = ">=3.8",
 

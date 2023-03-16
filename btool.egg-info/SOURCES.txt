@@ -3,6 +3,7 @@ README.md
 setup.py
 btool/__init__.py
 btool/io.py
+btool/plot.py
 btool.egg-info/PKG-INFO
 btool.egg-info/SOURCES.txt
 btool.egg-info/dependency_links.txt
