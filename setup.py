@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name = 'btool',
-    version = '0.0.4',
+    version = '0.0.6',
     author = 'RaisoLiu',
     author_email = 'raisoliu@gmail.com',
     description = 'Brain decoding & analysing toolbox',
